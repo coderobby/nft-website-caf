@@ -1,0 +1,19 @@
+.terms-of-use-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: #f9f9f9;
+  color: #333;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.terms-of-use-container h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.terms-of-use-container p {
+  font-size: 1rem;
+  line-height: 1.5;
+}
